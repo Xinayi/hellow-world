@@ -1,2 +1,5 @@
 # hellow-world
-Just another repository
+
+Hi Humans!
+
+  Exzee here!, I like jquery and Node.js(just newbie)...
